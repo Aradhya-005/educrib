@@ -22,7 +22,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth'
 
 export default {

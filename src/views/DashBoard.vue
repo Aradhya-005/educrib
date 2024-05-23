@@ -10,3 +10,6 @@ div {
   margin: 10%;
 }
 </style>
+<script lang="ts">
+export default {}
+</script>

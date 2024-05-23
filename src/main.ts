@@ -3,7 +3,7 @@ import './assets/main.css';
 import { createApp } from 'vue';
 import { createPinia } from 'pinia';
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { FontAwesomeIcon } from './fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { faChevronDown, faChevronUp } from '@fortawesome/free-solid-svg-icons';
 import { initializeApp } from 'firebase/app';
 import { getAnalytics } from 'firebase/analytics';

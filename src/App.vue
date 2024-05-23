@@ -24,7 +24,7 @@ const toggleSection = (section: string) => {
 <template>
   <div class="header">
     <div class="nav-logo">
-      <img src="../dist/assets/logo2.png" />
+      <img src="../src/assets/logo2.png" />
     </div>
     <div class="nav-toggle" @click="toggleMenu">
       <font-awesome-icon :icon="menuOpen ? 'times' : 'bars'" />

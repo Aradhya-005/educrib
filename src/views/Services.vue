@@ -21,6 +21,9 @@
     </div>
   </div>
 </template>
+<script lang="ts">
+export default {}
+</script>
 <style scoped>
 header {
   background-color: #007bff;
